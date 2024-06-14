@@ -1,2 +1,3 @@
-# maloca-icoisas
+# Maloca das Icoisas
+
 Material relacionado ao curso Maloca das Icoisas
